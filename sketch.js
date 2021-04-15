@@ -172,7 +172,7 @@ function draw() {
   }
   else if (pageNum == 6){
     background(0);
-    text("After one of the aliens was shot and killed by a hunter in the woods the little green man has decided to terminate these creatures that killed their friend and return home.", 30,40,400,400);
+    text("After one of the aliens was shot and killed by a hunter in the woods the little green man have decided to terminate these creatures that killed their friend and return home.", 30,40,400,400);
     
     
     //PLANET EARTH
